@@ -1,11 +1,12 @@
 <h1 align="center">Hi 👋, I'm Aayush Singh</h1>
 <h3 align="center">
-  I'm a tech enthusiast and a developer driven by curiosity and the joy of problem-solving. Here's a bit about me: 
-  🎓 Learner at heart: I've completed Harvard's CS50x and other CS50 tracks, gaining a solid foundation in computer science, Python, and web development. 
-  💻 Project Creator: From crafting an AI-powered Tic Tac Toe game to building Android chat applications and web-based inventory management systems, I love turning ideas into working solutions. 
-  🌟 Passionate about Python: I've tackled projects involving data analysis, machine learning, and innovative simulations (ask me about my casino slot machine project!). 
-  🌐 Web Enthusiast: Proficient in Django, HTML/CSS, and JavaScript, I enjoy creating dynamic, user-friendly applications. 
-  📚 Always Exploring: Currently diving into machine learning, enhancing my portfolio website, and sharpening my SQL skills.</h3>
+  I'm a tech enthusiast and a developer driven by curiosity and the joy of problem-solving. Here's a bit about me: <br>
+  🎓 Learner at heart: I've completed Harvard's CS50x and other CS50 tracks, gaining a solid foundation in computer science, Python, and web development. <br>
+  💻 Project Creator: From crafting an AI-powered Tic Tac Toe game to building Android chat applications and web-based inventory management systems, I love turning ideas into working solutions. <br>
+  🌟 Passionate about Python: I've tackled projects involving data analysis, machine learning, and innovative simulations (ask me about my casino slot machine project!). <br>
+  🌐 Web Enthusiast: Proficient in Django, HTML/CSS, and JavaScript, I enjoy creating dynamic, user-friendly applications. <br>
+  📚 Always Exploring: Currently diving into machine learning, enhancing my portfolio website, and sharpening my SQL skills.
+</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aayush3692&label=Profile%20views&color=0e75b6&style=flat" alt="aayush3692" /> </p>
 

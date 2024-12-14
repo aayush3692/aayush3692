@@ -9,7 +9,7 @@
   💻 Project Creator: From crafting an AI-powered Tic Tac Toe game to building Android chat applications and web-based inventory management systems, I love turning ideas into working solutions.
 </p>
 <p align="center">
-  🌟 Passionate about Python: I've tackled projects involving data analysis, machine learning, and innovative simulations (ask me about my casino slot machine project!).
+  🌟 Passionate about Python: I've tackled projects involving data analysis, machine learning, and innovative simulations.
 </p>
 <p align="center">
   🌐 Web Enthusiast: Proficient in Django, HTML/CSS, and JavaScript, I enjoy creating dynamic, user-friendly applications.

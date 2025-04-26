@@ -1,22 +1,33 @@
 <h1 align="center">Hi 👋, I'm Aayush Singh</h1>
+
 <h3 align="center">
   <strong>I'm a tech enthusiast and a developer driven by curiosity and the joy of problem-solving.</strong>
 </h3>
+
 <p align="center">
   🎓 Learner at heart: I've completed Harvard's CS50x and other CS50 tracks, gaining a solid foundation in computer science, Python, and web development.
 </p>
+
 <p align="center">
-  💻 Project Creator: From crafting an AI-powered Tic Tac Toe game to building Android chat applications and web-based inventory management systems, I love turning ideas into working solutions.
+  💻 Project Creator: From crafting immersive 3D websites, AI-powered interview platforms, and startup-sharing platforms — I love turning ideas into working solutions.
 </p>
+
+<p align="center">
+  ⚛️ Frontend Explorer: Proficient in React.js and Next.js, I enjoy building fast, responsive, and modern web applications.
+</p>
+
 <p align="center">
   🌟 Passionate about Python: I've tackled projects involving data analysis, machine learning, and innovative simulations.
 </p>
+
 <p align="center">
-  🌐 Web Enthusiast: Proficient in Django, HTML/CSS, and JavaScript, I enjoy creating dynamic, user-friendly applications.
+  🌐 Web Enthusiast: Skilled in Django, HTML/CSS, JavaScript, and now expanding my full-stack capabilities with React and Next.js.
 </p>
+
 <p align="center">
-  📚 Always Exploring: Currently diving into machine learning, enhancing my portfolio website, and sharpening my SQL skills.
+  📚 Always Exploring: Currently diving deeper into machine learning, advancing my frontend skills, and enhancing my portfolio with new projects.
 </p>
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aayush3692&label=Profile%20views&color=0e75b6&style=flat" alt="aayush3692" /> </p>

@@ -4,9 +4,9 @@
   <strong>I'm a tech enthusiast and a developer driven by curiosity and the joy of problem-solving.</strong>
 </h3>
 
-<p align="center">
+<!-- <p align="center">
   🎓 Learner at heart: I've completed Harvard's CS50x and other CS50 tracks, gaining a solid foundation in computer science, Python, and web development.
-</p>
+</p> -->
 
 <p align="center">
   💻 Project Creator: From crafting immersive 3D websites, AI-powered interview platforms, and startup-sharing platforms — I love turning ideas into working solutions.
